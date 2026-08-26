@@ -1,2 +1,2 @@
 # ayuda
-hola
+hola, quiero explotar
